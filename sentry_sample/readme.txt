@@ -4,6 +4,8 @@ npm install http-server -g
 Run 
 http-server
 
+Alternative way to run:
+python -m SimpleHTTPServer 
 
 
 Credits: 
